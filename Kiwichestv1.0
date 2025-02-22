@@ -16,7 +16,7 @@ game.StarterGui:SetCore(
     })
 
 require(game.ReplicatedStorage:WaitForChild("Notification")).new(
-            " <Color=Red>Tboy roblox On Top<Color=/> "
+            " <Color=Red>KIWI HUB On Top<Color=/> "
         ):Display()
 
 require(game.ReplicatedStorage:WaitForChild("Notification")).new(
